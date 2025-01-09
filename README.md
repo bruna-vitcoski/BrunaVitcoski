@@ -25,10 +25,8 @@
 ## 🌐 **Minhas Redes Sociais**
 
 <div> 
-  <a href="https://instagram.com/bruna-vitcoski" target="_blank"><img src="https://img.shields.io/badge/Instagram-Rosa?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-Azul?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="brunagrassi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-Cinza?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-vitcoski" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Azul?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-Cinza?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruna-grassi-vitcoski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Azul?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
