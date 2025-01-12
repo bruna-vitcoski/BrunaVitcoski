@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/bruna-vitcoski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-vitcoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-vitcoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
     
 ---
@@ -29,4 +29,5 @@
 </div>
 
 ---
+
 ✨ **Obrigada por visitar meu perfil!** 😊
