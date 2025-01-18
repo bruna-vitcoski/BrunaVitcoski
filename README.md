@@ -4,7 +4,8 @@
 
 <div>
   <a href="https://github.com/bruna-vitcoski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-vitcoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-vitcoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=600"/>
+  </a>
 </div>
     
 ---
@@ -24,8 +25,12 @@
 ## 🌐 **Minhas Redes Sociais**
 
 <div> 
-  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-Cinza?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-grassi-vitcoski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Azul?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Cinza?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/bruna-grassi-vitcoski/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Azul?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
 
 ---
